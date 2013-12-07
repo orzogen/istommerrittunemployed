@@ -10,3 +10,12 @@ h1{
 h2.yepnope{
   font-size: 8em;
 }
+span.by{
+  font-size: .7em;
+  position: absolute;
+  left: 5px;
+  bottom: 5px;
+}
+span.by a{
+  color: black !important;
+}
